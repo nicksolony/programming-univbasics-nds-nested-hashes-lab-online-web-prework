@@ -19,4 +19,9 @@ film_fest = [
   director_3
   ]
   
- puts  film_fest[0][:name]
+  puts  film_fest[0]
+  
+  film_fest[0][:name] = "John Ford"
+  film_fest[0][:movie] = "The grapes of wrath"
+  
+ puts  film_fest[0]
