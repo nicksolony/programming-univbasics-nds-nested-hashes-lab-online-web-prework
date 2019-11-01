@@ -19,7 +19,7 @@ film_fest = [
   director_3
   ]
   
- # puts  film_fest
+ puts  film_fest
   
   #film_fest[0][:name] = "John Ford"
   #film_fest[0][:movie] = "The grapes of wrath"
@@ -27,5 +27,5 @@ film_fest = [
   film_fest[1] = { name:"Cecil DeMille",
   movie: "Samson"}
   
-  
+puts  
  puts  film_fest
