@@ -19,4 +19,4 @@ film_fest = [
   director_3
   ]
   
-  puts film_fest
+  puts film_fest[0]
